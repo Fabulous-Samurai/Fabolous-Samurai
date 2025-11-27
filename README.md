@@ -17,7 +17,7 @@
 
 I don't just write code; I engineer scalable, secure, and resource-efficient systems.
 
-### 1. 🧠 [Project Pluto](LINK_VARSA_BURAYA_YOKSA_KALDIR)
+### 1. 🧠 [Project Pluto]
 **Cognitive Architecture for Constrained Environments (Edge AI).**
 * **Mission:** Running large cognitive models on micro-computers (ECUs, IoT) without Cloud dependency.
 * **Core Tech:** Model Quantization, C++, Embedded Systems.
