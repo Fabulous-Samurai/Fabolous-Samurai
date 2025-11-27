@@ -7,8 +7,7 @@
 > **Reconstructing cognitive architectures from first principles.** <br>
 > I bridge the gap between **Abstract Mathematics** and **Bare Metal Performance**, <br> designing systems where C++ meets Cognitive AI.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SENIN_LINKEDIN_ADRESIN)](SENIN_LINKEDIN_ADRESIN)
-[![Youtube Badge](https://img.shields.io/badge/-Technical_Critic_Nuances-red?style=flat-square&logo=Youtube&logoColor=white&link=SENIN_YOUTUBE_ADRESIN)](SENIN_YOUTUBE_ADRESIN)
+
 
 ---
 
